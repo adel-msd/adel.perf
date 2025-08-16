@@ -1,0 +1,561 @@
+--- Produit ---
+Nom: Kit Admission Directe Sport Haute Performance
+Prix: 499.99 €
+Description: Améliorez la performance de votre moteur avec notre kit admission directe sport. Conçu pour optimiser le flux d'air et augmenter la puissance, ce kit est fabriqué avec des matériaux de haute qualité pour une durabilité maximale. Installation facile et gain de performance immédiat. Ce système d'admission est idéal pour les passionnés de conduite qui cherchent à maximiser le potentiel de leur véhicule.
+Catégorie: Moteur
+Sous-catégorie: Admission d'air
+Images:
+  - /placeholder.svg?height=600&width=800&text=Product Image
+  - /placeholder.svg?height=300&width=400&text=Product Image 2
+  - /placeholder.svg?height=300&width=400&text=Product Image 3
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Ligne d'Échappement Sport Inox
+Prix: 899.00 €
+Description: Ligne d'échappement complète en acier inoxydable pour un son sportif et une performance accrue.
+Catégorie: Échappement
+Sous-catégorie: Ligne complète
+Images:
+  - /placeholder.svg?height=300&width=400&text=Échappement
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Freinage Haute Performance Brembo
+Prix: 1599.50 €
+Description: Améliorez votre puissance de freinage avec ce kit Brembo haute performance.
+Catégorie: Freinage
+Sous-catégorie: Kits gros freins
+Images:
+  - /placeholder.svg?height=300&width=400&text=Freinage
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Combinés Filetés Réglables KW V3
+Prix: 1250.00 €
+Description: Suspension réglable pour une tenue de route optimale et un look sportif.
+Catégorie: Châssis
+Sous-catégorie: Kits filetés
+Images:
+  - /placeholder.svg?height=300&width=400&text=Châssis
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Volant Sport Alcantara
+Prix: 350.00 €
+Description: Volant sport en Alcantara pour une meilleure prise en main et un look racing.
+Catégorie: Intérieur
+Sous-catégorie: Volants sport
+Images:
+  - /placeholder.svg?height=300&width=400&text=Intérieur
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Diffuseur Arrière Carbone
+Prix: 620.00 €
+Description: Diffuseur arrière en fibre de carbone pour un look agressif et une meilleure aérodynamique.
+Catégorie: Extérieur
+Sous-catégorie: Lames / Splitters
+Images:
+  - /placeholder.svg?height=300&width=400&text=Extérieur
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Huile Moteur Synthétique 5W-40
+Prix: 55.00 €
+Description: Huile moteur synthétique haute performance pour une protection optimale du moteur.
+Catégorie: Entretien
+Sous-catégorie: N/A
+Images:
+  - /placeholder.svg?height=300&width=400&text=Entretien
+--- Fin Produit ---
+
+--- Produit ---
+Nom: T-shirt Adel Performance
+Prix: 29.99 €
+Description: Affichez votre passion avec notre T-shirt Adel Performance.
+Catégorie: Goodies
+Sous-catégorie: N/A
+Images:
+  - /placeholder.svg?height=300&width=400&text=Goodies
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Filtre à Air Sport BMC
+Prix: 120.00 €
+Description: Filtre à Air Sport BMC
+Catégorie: Moteur
+Sous-catégorie: Admission d'air
+Images:
+  - /placeholder.svg?height=300&width=400&text=BMC Filter
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Amortisseurs Bilstein B16
+Prix: 1800.00 €
+Description: Amortisseurs Bilstein B16 pour une performance de suspension inégalée.
+Catégorie: Châssis
+Sous-catégorie: Suspensions sport
+Images:
+  - /placeholder.svg?height=300&width=400&text=Bilstein
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Downpipe Akrapovič
+Prix: 1100.00 €
+Description: Downpipe Akrapovič pour une optimisation du flux des gaz d'échappement et un gain de puissance.
+Catégorie: Échappement
+Sous-catégorie: Downpipe
+Images:
+  - /placeholder.svg?height=300&width=400&text=Akrapovic
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Ressorts Courts H&R
+Prix: 280.00 €
+Description: Ressorts courts H&R pour un abaissement du véhicule et une meilleure tenue de route.
+Catégorie: Châssis
+Sous-catégorie: Ressorts courts
+Images:
+  - /placeholder.svg?height=300&width=400&text=HR Springs
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Admission Injen Technology
+Prix: 550.00 €
+Description: Admission Injen Technology
+Catégorie: Moteur
+Sous-catégorie: Admission d'air
+Images:
+  - /placeholder.svg?height=300&width=400&text=Injen
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Reprogrammation Moteur APR Stage 1
+Prix: 700.00 €
+Description: Reprogrammation Moteur APR Stage 1
+Catégorie: Moteur
+Sous-catégorie: N/A
+Images:
+  - /placeholder.svg?height=300&width=400&text=APR Tune
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Silencieux Sport Remus
+Prix: 750.00 €
+Description: Silencieux sport Remus pour un son d'échappement plus profond et sportif.
+Catégorie: Échappement
+Sous-catégorie: Silencieux sport
+Images:
+  - /placeholder.svg?height=300&width=400&text=Remus
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Embrayage Renforcé
+Prix: 950.00 €
+Description: Kit embrayage renforcé pour supporter des puissances moteur plus élevées.
+Catégorie: Boîte de vitesse
+Sous-catégorie: Kits d'embrayage renforcés
+Images:
+  - /placeholder.svg?height=300&width=400&text=Boite de vitesse
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Turbo Hybride Performance Garrett
+Prix: 1800.00 €
+Description: Turbo hybride haute performance pour une augmentation significative de la puissance. Idéal pour les préparations moteur.
+Catégorie: Moteur
+Sous-catégorie: Turbo
+Images:
+  - /placeholder.svg?height=600&width=800&text=Turbo Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Radiateur d'Huile Gros Volume Mishimoto
+Prix: 350.00 €
+Description: Radiateur d'huile gros volume pour un refroidissement moteur optimal, essentiel pour les moteurs fortement sollicités.
+Catégorie: Moteur
+Sous-catégorie: Refroidissement
+Images:
+  - /placeholder.svg?height=600&width=800&text=Oil Cooler Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Durites Silicone Renforcées
+Prix: 180.00 €
+Description: Kit de durites en silicone renforcées pour une meilleure résistance à la pression et à la chaleur, remplaçant les durites d'origine.
+Catégorie: Moteur
+Sous-catégorie: Durite
+Images:
+  - /placeholder.svg?height=600&width=800&text=Hose Kit Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Pompe à Carburant Haute Pression Walbro
+Prix: 250.00 €
+Description: Pompe à carburant haute pression pour les moteurs préparés, assurant un débit constant et suffisant.
+Catégorie: Moteur
+Sous-catégorie: Circuit d'essence
+Images:
+  - /placeholder.svg?height=600&width=800&text=Fuel Pump Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Catback Inox Sport Milltek
+Prix: 780.00 €
+Description: Système Catback en acier inoxydable de haute qualité pour un son sportif et une performance améliorée.
+Catégorie: Échappement
+Sous-catégorie: Catback
+Images:
+  - /placeholder.svg?height=600&width=800&text=Catback Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Décatalyseur Performance Forge Motorsport
+Prix: 450.00 €
+Description: Décatalyseur pour une performance maximale et un son plus agressif. Réservé à un usage sur circuit.
+Catégorie: Échappement
+Sous-catégorie: Décatalyseur
+Images:
+  - /placeholder.svg?height=600&width=800&text=Decat Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Valves Échappement Électroniques Armytrix
+Prix: 1200.00 €
+Description: Contrôlez le son de votre échappement avec ce kit de valves électroniques.
+Catégorie: Échappement
+Sous-catégorie: Valves d’échappement
+Images:
+  - /placeholder.svg?height=600&width=800&text=Exhaust Valves Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Sorties d'Échappement Carbone Akrapovič
+Prix: 300.00 €
+Description: Paires de sorties d'échappement en fibre de carbone pour une finition esthétique parfaite.
+Catégorie: Échappement
+Sous-catégorie: Sorties
+Images:
+  - /placeholder.svg?height=600&width=800&text=Exhaust Tips Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Fixation Échappement Renforcé Powerflex
+Prix: 80.00 €
+Description: Kit de silentblocs et fixations renforcés pour une meilleure tenue de votre ligne d'échappement.
+Catégorie: Échappement
+Sous-catégorie: Fixations & accessoires
+Images:
+  - /placeholder.svg?height=600&width=800&text=Exhaust Mounts Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Catalyseur Sport 200 Cellules HJS
+Prix: 950.00 €
+Description: Catalyseur sport 200 cellules pour une meilleure performance tout en restant homologué pour la route.
+Catégorie: Échappement
+Sous-catégorie: Catalyseurs sport (200 cellules)
+Images:
+  - /placeholder.svg?height=600&width=800&text=Sport Cat Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Barre Anti-Roulis Eibach
+Prix: 320.00 €
+Description: Barre anti-roulis sport pour réduire le roulis de la carrosserie en virage et améliorer la tenue de route.
+Catégorie: Châssis
+Sous-catégorie: Barres anti-roulis
+Images:
+  - /placeholder.svg?height=600&width=800&text=Anti-Roll Bar Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Barre Anti-Rapprochement OMP
+Prix: 150.00 €
+Description: Barre anti-rapprochement pour renforcer la rigidité du châssis et améliorer la précision de la direction.
+Catégorie: Châssis
+Sous-catégorie: Barres anti-rapprochement
+Images:
+  - /placeholder.svg?height=600&width=800&text=Strut Bar Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Silentblocs Polyuréthane Powerflex
+Prix: 220.00 €
+Description: Remplacement des silentblocs d'origine par des versions en polyuréthane pour une meilleure réactivité et durabilité.
+Catégorie: Châssis
+Sous-catégorie: Silentblocs renforcés
+Images:
+  - /placeholder.svg?height=600&width=800&text=Bushings Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Rotules de Suspension Réglables Whiteline
+Prix: 180.00 €
+Description: Rotules de suspension réglables pour ajuster le carrossage et améliorer la géométrie de la suspension.
+Catégorie: Châssis
+Sous-catégorie: Rotules / bras de suspension
+Images:
+  - /placeholder.svg?height=600&width=800&text=Ball Joints Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Supports Moteur Renforcés Vibra-Technics
+Prix: 400.00 €
+Description: Supports moteur renforcés pour limiter les mouvements du groupe motopropulseur et améliorer le transfert de puissance.
+Catégorie: Châssis
+Sous-catégorie: Supports moteur / boîte renforcés
+Images:
+  - /placeholder.svg?height=600&width=800&text=Engine Mounts Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit de Réglage Carrossage SPC
+Prix: 120.00 €
+Description: Kit d'accessoires pour le réglage précis du carrossage de votre véhicule.
+Catégorie: Châssis
+Sous-catégorie: Accessoires de réglage
+Images:
+  - /placeholder.svg?height=600&width=800&text=Camber Kit Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Disques de Frein Sport EBC Ultimax
+Prix: 250.00 €
+Description: Disques de frein sport rainurés pour une meilleure dissipation de la chaleur et une performance de freinage accrue.
+Catégorie: Freinage
+Sous-catégorie: Disques de frein sport
+Images:
+  - /placeholder.svg?height=600&width=800&text=EBC Discs Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Plaquettes de Frein Sport Ferodo DS2500
+Prix: 180.00 €
+Description: Plaquettes de frein haute performance idéales pour un usage sportif sur route et circuit.
+Catégorie: Freinage
+Sous-catégorie: Plaquettes de frein sport
+Images:
+  - /placeholder.svg?height=600&width=800&text=Ferodo Pads Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Durites de Frein Aviation Goodridge
+Prix: 120.00 €
+Description: Kit de durites de frein en acier tressé pour une meilleure réactivité de la pédale et une endurance accrue.
+Catégorie: Freinage
+Sous-catégorie: Durites aviation
+Images:
+  - /placeholder.svg?height=600&width=800&text=Brake Lines Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Liquide de Frein Haute Température Motul RBF 600
+Prix: 30.00 €
+Description: Liquide de frein haute performance avec un point d'ébullition élevé, idéal pour un usage intensif sur circuit.
+Catégorie: Freinage
+Sous-catégorie: Liquide de frein haute température
+Images:
+  - /placeholder.svg?height=600&width=800&text=Brake Fluid Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Étriers de Frein 4 Pistons AP Racing
+Prix: 900.00 €
+Description: Étriers de frein 4 pistons pour une puissance de freinage et une sensation de pédale améliorées.
+Catégorie: Freinage
+Sous-catégorie: Étriers de frein
+Images:
+  - /placeholder.svg?height=600&width=800&text=AP Racing Calipers Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Frein à Main Hydraulique DriftShop
+Prix: 280.00 €
+Description: Frein à main hydraulique pour un contrôle précis du blocage des roues arrière, idéal pour le drift.
+Catégorie: Freinage
+Sous-catégorie: Freins à main hydraulique
+Images:
+  - /placeholder.svg?height=600&width=800&text=Hydraulic Handbrake Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Visserie Frein Haute Résistance
+Prix: 45.00 €
+Description: Kit de visserie renforcée pour les systèmes de freinage, assurant une sécurité et une durabilité maximales.
+Catégorie: Freinage
+Sous-catégorie: Accessoires / visserie frein
+Images:
+  - /placeholder.svg?height=600&width=800&text=Brake Hardware Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Pommeau de Vitesses Sport Carbone
+Prix: 85.00 €
+Description: Pommeau de vitesses en fibre de carbone pour un look sportif et une meilleure prise en main.
+Catégorie: Intérieur
+Sous-catégorie: Pommeaux de vitesses
+Images:
+  - /placeholder.svg?height=600&width=800&text=Carbon Shift Knob Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Siège Baquet Racing OMP TRS-E
+Prix: 399.00 €
+Description: Siège baquet homologué FIA pour un maintien optimal en conduite sportive et sur circuit.
+Catégorie: Intérieur
+Sous-catégorie: Sièges baquets
+Images:
+  - /placeholder.svg?height=600&width=800&text=OMP Bucket Seat Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Harnais de Sécurité 4 Points Sabelt
+Prix: 150.00 €
+Description: Harnais de sécurité 4 points pour une sécurité accrue en usage sportif ou sur circuit.
+Catégorie: Intérieur
+Sous-catégorie: Harnais de sécurité
+Images:
+  - /placeholder.svg?height=600&width=800&text=Sabelt Harness Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Pédalier Sport Aluminium Sparco
+Prix: 60.00 €
+Description: Pédalier sport en aluminium avec inserts anti-dérapants pour une meilleure sensation de conduite.
+Catégorie: Intérieur
+Sous-catégorie: Pédaliers sport
+Images:
+  - /placeholder.svg?height=600&width=800&text=Sparco Pedals Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Tapis de Sol Sport Personnalisés
+Prix: 90.00 €
+Description: Tapis de sol sport personnalisés avec logos et surpiqûres rouges pour un intérieur unique.
+Catégorie: Intérieur
+Sous-catégorie: Tapis & moquettes sport
+Images:
+  - /placeholder.svg?height=600&width=800&text=Custom Floor Mats Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Manomètre Pression Turbo Defi
+Prix: 220.00 €
+Description: Manomètre de pression de turbo pour un monitoring précis des performances moteur.
+Catégorie: Intérieur
+Sous-catégorie: Manomètres (boost, temp...)
+Images:
+  - /placeholder.svg?height=600&width=800&text=Boost Gauge Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Éclairage Intérieur LED Blanc Froid
+Prix: 40.00 €
+Description: Kit complet d'ampoules LED pour un éclairage intérieur moderne et lumineux.
+Catégorie: Intérieur
+Sous-catégorie: Éclairage intérieur LED
+Images:
+  - /placeholder.svg?height=600&width=800&text=LED Headlights Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Extension Tableau de Bord Carbone
+Prix: 180.00 €
+Description: Extension de tableau de bord en fibre de carbone pour un intérieur plus sportif.
+Catégorie: Intérieur
+Sous-catégorie: Tableaux de bord / extensions
+Images:
+  - /placeholder.svg?height=600&width=800&text=Carbon Dashboard Extension Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Kit Carrosserie Large Maxton Design
+Prix: 1200.00 €
+Description: Kit carrosserie complet pour un look agressif et une présence sur route inégalée.
+Catégorie: Extérieur
+Sous-catégorie: Kits carrosserie
+Images:
+  - /placeholder.svg?height=600&width=800&text=Wide Body Kit Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Aileron Arrière Carbone GT Wing
+Prix: 750.00 €
+Description: Aileron arrière en fibre de carbone type GT Wing pour un appui aérodynamique maximal.
+Catégorie: Extérieur
+Sous-catégorie: Ailerons / Spoilers
+Images:
+  - /placeholder.svg?height=600&width=800&text=GT Wing Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Calandre Sport Noir Brillant
+Prix: 150.00 €
+Description: Calandre sport noir brillant pour un look plus agressif et moderne.
+Catégorie: Extérieur
+Sous-catégorie: Calandres sport
+Images:
+  - /placeholder.svg?height=600&width=800&text=Gloss Black Grille Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Jantes Alliage Léger OZ Racing Ultraleggera
+Prix: 350.00 €
+Description: Jantes en alliage léger pour une réduction du poids non suspendu et une amélioration des performances.
+Catégorie: Extérieur
+Sous-catégorie: Jantes
+Images:
+  - /placeholder.svg?height=600&width=800&text=OZ Racing Wheels Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Phares Avant Full LED Dynamiques
+Prix: 600.00 €
+Description: Phares avant Full LED avec clignotants dynamiques pour une visibilité et un look modernes.
+Catégorie: Extérieur
+Sous-catégorie: Éclairage extérieur LED
+Images:
+  - /placeholder.svg?height=600&width=800&text=LED Headlights Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Short Shifter Forge Motorsport
+Prix: 180.00 €
+Description: Short shifter pour une réduction de la course du levier de vitesses, permettant des changements plus rapides et précis.
+Catégorie: Boîte de vitesse
+Sous-catégorie: Short Shifter
+Images:
+  - /placeholder.svg?height=600&width=800&text=Short Shifter Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Volant Moteur Allégé Fidanza
+Prix: 450.00 €
+Description: Volant moteur allégé pour une réduction de l'inertie, permettant des montées en régime plus rapides.
+Catégorie: Boîte de vitesse
+Sous-catégorie: Volants moteur allégés
+Images:
+  - /placeholder.svg?height=600&width=800&text=Lightweight Flywheel Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Différentiel Autobloquant Quaife ATB
+Prix: 900.00 €
+Description: Différentiel autobloquant pour une meilleure motricité et une performance accrue en virage.
+Catégorie: Boîte de vitesse
+Sous-catégorie: Différentiels autobloquants
+Images:
+  - /placeholder.svg?height=600&width=800&text=LSD Image
+--- Fin Produit ---
+
+--- Produit ---
+Nom: Huile de Boîte de Vitesses Sport Motul Gear 300
+Prix: 25.00 €
+Description: Huile de boîte de vitesses haute performance pour une protection optimale et des passages de rapports fluides.
+Catégorie: Boîte de vitesse
+Sous-catégorie: Huiles de boîte
+Images:
+  - /placeholder.svg?height=600&width=800&text=Gear Oil Image
+--- Fin Produit ---
